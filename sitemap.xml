@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.kevinwangstats.com/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.kevinwangstats.com/post/busiest-air-routes/</loc>
     <lastmod>2021-06-03T17:22:58+10:00</lastmod>
   </url><url>
@@ -27,6 +9,9 @@
     <lastmod>2021-06-03T17:22:58+10:00</lastmod>
   </url><url>
     <loc>http://www.kevinwangstats.com/category/datavisualisation/</loc>
+    <lastmod>2021-06-03T17:22:58+10:00</lastmod>
+  </url><url>
+    <loc>http://www.kevinwangstats.com/</loc>
     <lastmod>2021-06-03T17:22:58+10:00</lastmod>
   </url><url>
     <loc>http://www.kevinwangstats.com/post/</loc>
@@ -37,12 +22,6 @@
   </url><url>
     <loc>http://www.kevinwangstats.com/category/statistics/</loc>
     <lastmod>2021-05-30T18:23:37+10:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kevinwangstats.com/tag/datavis/</loc>
     <lastmod>2020-04-11T22:09:41+10:00</lastmod>
@@ -73,12 +52,6 @@
   </url><url>
     <loc>http://www.kevinwangstats.com/package/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kevinwangstats.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kevinwangstats.com/package/mcvis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
