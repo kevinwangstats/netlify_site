@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>statistics | Kevin Wang</title>
-    <link>http://www.kevinwangstats.com/category/statistics/</link>
-      <atom:link href="http://www.kevinwangstats.com/category/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kevinwangstats.com/category/statistics/</link>
+      <atom:link href="https://www.kevinwangstats.com/category/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>statistics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
       <title>statistics</title>
-      <link>http://www.kevinwangstats.com/category/statistics/</link>
+      <link>https://www.kevinwangstats.com/category/statistics/</link>
     </image>
     
     <item>
       <title>Confidence and prediction intervals</title>
-      <link>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
+      <link>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
+      <guid>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -62,7 +62,7 @@ df %&amp;gt;%
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = FALSE) +
   ggpubr::stat_regline_equation()&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-interval-ci&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Confidence interval (CI)&lt;/h1&gt;
@@ -92,7 +92,7 @@ df %&amp;gt;%
   ggpubr::stat_regline_equation() +
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = TRUE)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;prediction-interval-pi&#34; class=&#34;section level1&#34;&gt;
@@ -139,7 +139,7 @@ plot1 = plotdf %&amp;gt;%
        gray: 95% CI&amp;quot;)
 
 plot1&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot2 = plot1 + 
   geom_ribbon(aes(x = x, ymin = pi_lwr, ymax = pi_upr), colour = &amp;quot;red&amp;quot;, alpha = 0) +
   labs(caption = &amp;quot;blue: single estimated linear regression line,
@@ -147,7 +147,7 @@ plot1&lt;/code&gt;&lt;/pre&gt;
       gray: 95% CI&amp;quot;)
 
 plot2&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;From the plot, I would like to reiterate this idea that a CI (gray region) tries to quantify averaged behaviour of a model (blue line), and notice how small the jiggling is. But a PI (red lines) tries to quantify the behaviour of individual data points, and thus PI is much wider, because individuals are less predictable than the average.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bonus-1-probability-and-confidence-level&#34; class=&#34;section level1&#34;&gt;
@@ -244,7 +244,7 @@ sim_coef_tbl&lt;/code&gt;&lt;/pre&gt;
        blue: single estimated linear regression line
        orange: 100 simulated linear regression lines,
        gray: 95% CI&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-intervals&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Confidence intervals&lt;/h2&gt;

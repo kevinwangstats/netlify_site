@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Wang</title>
-    <link>http://www.kevinwangstats.com/</link>
-      <atom:link href="http://www.kevinwangstats.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kevinwangstats.com/</link>
+      <atom:link href="https://www.kevinwangstats.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
       <title>Kevin Wang</title>
-      <link>http://www.kevinwangstats.com/</link>
+      <link>https://www.kevinwangstats.com/</link>
     </image>
     
     <item>
       <title>Busiest air routes</title>
-      <link>http://www.kevinwangstats.com/post/busiest-air-routes/</link>
+      <link>https://www.kevinwangstats.com/post/busiest-air-routes/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/busiest-air-routes/</guid>
+      <guid>https://www.kevinwangstats.com/post/busiest-air-routes/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -213,11 +213,11 @@ fig&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Confidence and prediction intervals</title>
-      <link>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
+      <link>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
+      <guid>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -261,7 +261,7 @@ df %&amp;gt;%
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = FALSE) +
   ggpubr::stat_regline_equation()&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-interval-ci&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Confidence interval (CI)&lt;/h1&gt;
@@ -291,7 +291,7 @@ df %&amp;gt;%
   ggpubr::stat_regline_equation() +
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = TRUE)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;prediction-interval-pi&#34; class=&#34;section level1&#34;&gt;
@@ -338,7 +338,7 @@ plot1 = plotdf %&amp;gt;%
        gray: 95% CI&amp;quot;)
 
 plot1&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot2 = plot1 + 
   geom_ribbon(aes(x = x, ymin = pi_lwr, ymax = pi_upr), colour = &amp;quot;red&amp;quot;, alpha = 0) +
   labs(caption = &amp;quot;blue: single estimated linear regression line,
@@ -346,7 +346,7 @@ plot1&lt;/code&gt;&lt;/pre&gt;
       gray: 95% CI&amp;quot;)
 
 plot2&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;From the plot, I would like to reiterate this idea that a CI (gray region) tries to quantify averaged behaviour of a model (blue line), and notice how small the jiggling is. But a PI (red lines) tries to quantify the behaviour of individual data points, and thus PI is much wider, because individuals are less predictable than the average.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bonus-1-probability-and-confidence-level&#34; class=&#34;section level1&#34;&gt;
@@ -443,7 +443,7 @@ sim_coef_tbl&lt;/code&gt;&lt;/pre&gt;
        blue: single estimated linear regression line
        orange: 100 simulated linear regression lines,
        gray: 95% CI&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-intervals&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Confidence intervals&lt;/h2&gt;
@@ -532,11 +532,11 @@ Notice that both formulas share the same point estimate of &lt;span class=&#34;m
     
     <item>
       <title>Visualising COVID-19 data using Data Studio</title>
-      <link>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
+      <link>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
+      <guid>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -579,7 +579,7 @@ LIMIT 10&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;A bit more data manipulations&lt;/h1&gt;
 &lt;p&gt;In order to make the heatmap at the beginning of this post, a bit more data manipulations are needed. In particular, joining the two data together using “country” as a common key. Once this is done, we can take the ratio of the confirmed cases and the population and calculate the “confirmed cases per 1 million” statistic and making a heatmap visualisation is straightforward after that.&lt;/p&gt;
 &lt;p&gt;Joining data in DS is called “blending data”, which you can &lt;a href=&#34;https://support.google.com/datastudio/answer/9061420?hl=en&#34;&gt;find out more here&lt;/a&gt;. This is identical to the operation of the various JOIN operations in SQL if you choose your settings correctly.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Aside: of course, joining data isn’t the magic silver bullet for everything. If you examine closely on page 2 of the report, you will see that some countries have &lt;code&gt;null&lt;/code&gt; values in the &lt;code&gt;confirmed cases&lt;/code&gt; column, e.g. South Korea. This is because the name of the country was not consistent between the two counties. E.g. “South Korea” in one data and “Korea, South” in another. This has to be fixed by making a new column with matched names. The way that I did it was to create a &lt;code&gt;country_correct&lt;/code&gt; column in the population data using the definitions such as&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;CASE 
     WHEN country IN (&amp;quot;United States&amp;quot;) THEN &amp;quot;US&amp;quot; 
@@ -611,11 +611,11 @@ END&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>BigQuery in R</title>
-      <link>http://www.kevinwangstats.com/post/bigquery-in-r/</link>
+      <link>https://www.kevinwangstats.com/post/bigquery-in-r/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/bigquery-in-r/</guid>
+      <guid>https://www.kevinwangstats.com/post/bigquery-in-r/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;motivation&#34; class=&#34;section level1&#34;&gt;
@@ -861,11 +861,11 @@ pre code {
     
     <item>
       <title>COVID-19 visualisations</title>
-      <link>http://www.kevinwangstats.com/post/covid-19-visualisations/</link>
+      <link>https://www.kevinwangstats.com/post/covid-19-visualisations/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/covid-19-visualisations/</guid>
+      <guid>https://www.kevinwangstats.com/post/covid-19-visualisations/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/covid-19-visualisations/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/covid-19-visualisations/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -880,7 +880,7 @@ I want to quite clear about my intentions behind this blog post: I am &lt;strong
 &lt;/div&gt;
 &lt;div id=&#34;shiny-app-for-confirmed-cases-and-added-cases&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Shiny app for confirmed cases and added cases&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/img/covid19_shiny.png&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/img/covid19_shiny.png&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This app attemps to answer the first question, code: &lt;a href=&#34;https://github.com/kevinwang09/covid19&#34; class=&#34;uri&#34;&gt;https://github.com/kevinwang09/covid19&lt;/a&gt;. I can’t afford a server at this point, so you will need to run this app locally by reading through the instructions in the README of that repo.&lt;/p&gt;
 &lt;p&gt;Based on my simple visualisations at the time (~15 March 2020), I estimated that US’s major outbreak lags behind that of China by about 45 days or so. So it wasn’t so dangerous for me when I was in Cornell around mid-March, however, it was definitely not ideal as the county I was in already had two confirmed cases. Any delays in my departure could spell trouble. This is unfortunately true since at the time of writing, US has overtaken China in confirmed cases and New York state shares the biggest percentage of those confirmed cases.&lt;/p&gt;
 &lt;p&gt;The structure of the app is quite simple:&lt;/p&gt;
@@ -892,7 +892,7 @@ I want to quite clear about my intentions behind this blog post: I am &lt;strong
 &lt;/div&gt;
 &lt;div id=&#34;interactive-animation-of-flights-with-confirmed-case&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Interactive animation of flights with confirmed case&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/img/covid19_flights.gif&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/img/covid19_flights.gif&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This is a standalone RMarkdown document: &lt;a href=&#34;https://kevinwang09.github.io/covid19/confirmed_flights.html#5_plotly_visualisations&#34; class=&#34;uri&#34;&gt;https://kevinwang09.github.io/covid19/confirmed_flights.html#5_plotly_visualisations&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The New South Wales Health website publishes a &lt;a href=&#34;https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus-flights.aspx&#34;&gt;list of flights with confirmed cases of COVID-19&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The coding beind this visualisation is also quite straight-forward:&lt;/p&gt;
@@ -922,55 +922,55 @@ raw_flights_tbl = raw %&amp;gt;%
     
     <item>
       <title>learningtower</title>
-      <link>http://www.kevinwangstats.com/package/learningtower/</link>
+      <link>https://www.kevinwangstats.com/package/learningtower/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/package/learningtower/</guid>
+      <guid>https://www.kevinwangstats.com/package/learningtower/</guid>
       <description>&lt;p&gt;The goal of learningtower is to provide a user-friendly R package to provide easy access to a subset of variables from PISA data collected from the OECD, for the years 2000 - 2018, collected on a three year basis. This is an excellent dataset for exploring and visualizing data. This dataset can also be used for other analytically purposes as well as statistical computations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mcvis</title>
-      <link>http://www.kevinwangstats.com/package/mcvis/</link>
+      <link>https://www.kevinwangstats.com/package/mcvis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/package/mcvis/</guid>
+      <guid>https://www.kevinwangstats.com/package/mcvis/</guid>
       <description>&lt;p&gt;Multi-collinearity is a big problem in performing regression. Without properly detecting collinearity, the regression estimation could be severely biased. The traditional statistics like variance inflation factor or eigenvalues do not always perform well in applications. mcvis is a new framework that utilises resampling techniques to repeatedly learn from these conventional collinearity indices and their relationships in order to better understand the causes of collinearity. Our framework is made available in &lt;code&gt;R&lt;/code&gt; through the &lt;code&gt;mcvis&lt;/code&gt; package which includes new collinearity measures and visualisations, in particular a bipartite plot that informs on the degree and structure of collinearity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>scMerge</title>
-      <link>http://www.kevinwangstats.com/package/scmerge/</link>
+      <link>https://www.kevinwangstats.com/package/scmerge/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/package/scmerge/</guid>
+      <guid>https://www.kevinwangstats.com/package/scmerge/</guid>
       <description>&lt;p&gt;Single-cell RNA-seq is an exciting new technology that allows us to study cell heterogeneity. However, like most transcriptomics data, multiple scRNA-Seq data cannot be easily combined without adjustments for scaling. &lt;code&gt;scMerge&lt;/code&gt; uses clever algorithms to group similar cells between multiple datasets to understand the noise structure between them. This noise structure is then removed from these datasets to produce a merged data suitable for other downstream scRNA-Seq data analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bioconductor packages</title>
-      <link>http://www.kevinwangstats.com/project/bioc/</link>
+      <link>https://www.kevinwangstats.com/project/bioc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/bioc/</guid>
+      <guid>https://www.kevinwangstats.com/project/bioc/</guid>
       <description>&lt;p&gt;I have an interest in developing Bioconductor packages. I am currently the maintainer of &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/scMerge.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scMerge&lt;/a&gt;. I am thinking about working towards integrating &lt;code&gt;tidyverse&lt;/code&gt; concepts with S4-class objects in Bioconductor, e.g. through &lt;a href=&#34;https://github.com/kevinwang09/plyexperiment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plyexperiment&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I think the Bioconductor framework for package management (and by extension, the pursue for reproducibility in research) is invaluable. Thus, I have taken up some extra efforts to learn about the &lt;code&gt;git&lt;/code&gt; version control system and the package continuous integration tool &lt;code&gt;travis&lt;/code&gt;. I also use &lt;code&gt;docker&lt;/code&gt;, which you can read about &lt;a href=&#34;http://www.kevinwangstats.com/project/cloud_computing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I think the Bioconductor framework for package management (and by extension, the pursue for reproducibility in research) is invaluable. Thus, I have taken up some extra efforts to learn about the &lt;code&gt;git&lt;/code&gt; version control system and the package continuous integration tool &lt;code&gt;travis&lt;/code&gt;. I also use &lt;code&gt;docker&lt;/code&gt;, which you can read about &lt;a href=&#34;https://www.kevinwangstats.com/project/cloud_computing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Compare R &amp; Python/SQL</title>
-      <link>http://www.kevinwangstats.com/project/rpython/</link>
+      <link>https://www.kevinwangstats.com/project/rpython/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/rpython/</guid>
+      <guid>https://www.kevinwangstats.com/project/rpython/</guid>
       <description>&lt;p&gt;I am in the process of learning the pros/cons between &lt;code&gt;R&lt;/code&gt; and &lt;code&gt;Python&lt;/code&gt;/&lt;code&gt;SQL&lt;/code&gt; for a range of analytical tasks. As such, I have created &lt;a href=&#34;https://kevinwang09.github.io/compare-r-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this webpage&lt;/a&gt; for R vs Python and &lt;a href=&#34;https://kevinwang09.github.io/compare-r-sql/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this webpage&lt;/a&gt; for R vs SQL.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cricinformatics</title>
-      <link>http://www.kevinwangstats.com/project/cricinformatics/</link>
+      <link>https://www.kevinwangstats.com/project/cricinformatics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/cricinformatics/</guid>
+      <guid>https://www.kevinwangstats.com/project/cricinformatics/</guid>
       <description>&lt;p&gt;I always enjoy watching cricket and given that my research is in bioinformatics, I have &amp;ldquo;created&amp;rdquo; my own discipline: Cricinformatics (the name has nothing to do with Cricinfo, but I am open to the idea of a sponsorship).&lt;/p&gt;
 &lt;p&gt;Cricinformatics aims to use powerful bioinformatics tools to analyse cricket data. I have written a talk on this and all &lt;a href=&#34;https://github.com/kevinwang09/Cricinformatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;codes are available&lt;/a&gt; on GitHub.&lt;/p&gt;
 </description>
@@ -978,9 +978,9 @@ raw_flights_tbl = raw %&amp;gt;%
     
     <item>
       <title>Data Visualisation</title>
-      <link>http://www.kevinwangstats.com/project/visualisation/</link>
+      <link>https://www.kevinwangstats.com/project/visualisation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/visualisation/</guid>
+      <guid>https://www.kevinwangstats.com/project/visualisation/</guid>
       <description>&lt;p&gt;I like make pretty pictures to explain statistical concepts. This project is very broad but here is a selection of my works to visualise:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kevinwang09.github.io/mcvis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-collinearity&lt;/a&gt;&lt;/li&gt;
@@ -993,18 +993,18 @@ raw_flights_tbl = raw %&amp;gt;%
     
     <item>
       <title>Feature Selection</title>
-      <link>http://www.kevinwangstats.com/project/featureselection/</link>
+      <link>https://www.kevinwangstats.com/project/featureselection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/featureselection/</guid>
+      <guid>https://www.kevinwangstats.com/project/featureselection/</guid>
       <description>&lt;p&gt;One of the areas of research that I have a particular focus on is feature selection. One of my more notable work on this is &lt;a href=&#34;https://kevinwang09.github.io/APES/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APES&lt;/a&gt; - APproximated Exhaustive Search for generalised linear models. It is available as a standalone &lt;code&gt;R&lt;/code&gt; package.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pokemon Data</title>
-      <link>http://www.kevinwangstats.com/project/pokemon/</link>
+      <link>https://www.kevinwangstats.com/project/pokemon/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/pokemon/</guid>
+      <guid>https://www.kevinwangstats.com/project/pokemon/</guid>
       <description>&lt;p&gt;During my PhD years, I realised that I don&amp;rsquo;t get enough exercise. And given that my research is in bioinformatics, I have a great idea to play Pokemon Go and analyse the data/theory associated with the game.&lt;/p&gt;
 &lt;p&gt;I have given &lt;a href=&#34;https://github.com/kevinwang09/pokemon_workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;talks&lt;/a&gt; on the classical Coupon Collector&amp;rsquo;s Problem in statistics, which can be seen as a basic model for collecting Pokemons.&lt;/p&gt;
 </description>
@@ -1012,18 +1012,18 @@ raw_flights_tbl = raw %&amp;gt;%
     
     <item>
       <title>Project Euler</title>
-      <link>http://www.kevinwangstats.com/project/project_euler/</link>
+      <link>https://www.kevinwangstats.com/project/project_euler/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/project_euler/</guid>
+      <guid>https://www.kevinwangstats.com/project/project_euler/</guid>
       <description>&lt;p&gt;I am using Python to solve a series of &lt;a href=&#34;http://projecteuler.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Euler&lt;/a&gt; challenges. All codes and explanations are stored in &lt;a href=&#34;https://github.com/kevinwang09/project_euler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects in the cloud</title>
-      <link>http://www.kevinwangstats.com/project/cloud_computing/</link>
+      <link>https://www.kevinwangstats.com/project/cloud_computing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/cloud_computing/</guid>
+      <guid>https://www.kevinwangstats.com/project/cloud_computing/</guid>
       <description>&lt;p&gt;I believe research should always be reproducible, even if that translates to extra work for the authors/developers. That line of thinking lead me to learn about &lt;code&gt;docker&lt;/code&gt;. I have used it in the past to produce containers to freeze old versions of my package (e.g. see &lt;a href=&#34;https://github.com/kevinwang09/scmerge_docker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docker image for scMerge&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Some Google Cloud based workshops I have designed and administered are on the topics of&lt;/p&gt;
 &lt;ul&gt;
@@ -1045,26 +1045,26 @@ raw_flights_tbl = raw %&amp;gt;%
     
     <item>
       <title>tidytuesday</title>
-      <link>http://www.kevinwangstats.com/project/tidytuesday/</link>
+      <link>https://www.kevinwangstats.com/project/tidytuesday/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/project/tidytuesday/</guid>
+      <guid>https://www.kevinwangstats.com/project/tidytuesday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APES</title>
-      <link>http://www.kevinwangstats.com/package/apes/</link>
+      <link>https://www.kevinwangstats.com/package/apes/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/package/apes/</guid>
+      <guid>https://www.kevinwangstats.com/package/apes/</guid>
       <description>&lt;p&gt;Exhaustive variable selection is known to be time consuming, especially for Generalised Linear Models (GLMs). APES is a variable selection method that first converts a given GLM into a linear model first and then uses a best-subset algorithm to find the best linear model. This linear model is then converted back to a GLM to approximate the original exhaustive search problem. &lt;code&gt;APES&lt;/code&gt; can be orders of magnitudes faster than the true exhaustive search while retaining a reasonable accuracy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.kevinwangstats.com/admin/config.yml</link>
+      <link>https://www.kevinwangstats.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/admin/config.yml</guid>
+      <guid>https://www.kevinwangstats.com/admin/config.yml</guid>
       <description></description>
     </item>
     

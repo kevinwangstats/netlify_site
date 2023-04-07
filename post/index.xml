@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Kevin Wang</title>
-    <link>http://www.kevinwangstats.com/post/</link>
-      <atom:link href="http://www.kevinwangstats.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kevinwangstats.com/post/</link>
+      <atom:link href="https://www.kevinwangstats.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://www.kevinwangstats.com/post/</link>
+      <link>https://www.kevinwangstats.com/post/</link>
     </image>
     
     <item>
       <title>Busiest air routes</title>
-      <link>http://www.kevinwangstats.com/post/busiest-air-routes/</link>
+      <link>https://www.kevinwangstats.com/post/busiest-air-routes/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/busiest-air-routes/</guid>
+      <guid>https://www.kevinwangstats.com/post/busiest-air-routes/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;http://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/busiest-air-routes/index.en_files/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -213,11 +213,11 @@ fig&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Confidence and prediction intervals</title>
-      <link>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
+      <link>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
+      <guid>https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -261,7 +261,7 @@ df %&amp;gt;%
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = FALSE) +
   ggpubr::stat_regline_equation()&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-interval-ci&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Confidence interval (CI)&lt;/h1&gt;
@@ -291,7 +291,7 @@ df %&amp;gt;%
   ggpubr::stat_regline_equation() +
   geom_smooth(method = &amp;quot;lm&amp;quot;, se = TRUE)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using formula &amp;#39;y ~ x&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;prediction-interval-pi&#34; class=&#34;section level1&#34;&gt;
@@ -338,7 +338,7 @@ plot1 = plotdf %&amp;gt;%
        gray: 95% CI&amp;quot;)
 
 plot1&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot2 = plot1 + 
   geom_ribbon(aes(x = x, ymin = pi_lwr, ymax = pi_upr), colour = &amp;quot;red&amp;quot;, alpha = 0) +
   labs(caption = &amp;quot;blue: single estimated linear regression line,
@@ -346,7 +346,7 @@ plot1&lt;/code&gt;&lt;/pre&gt;
       gray: 95% CI&amp;quot;)
 
 plot2&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;From the plot, I would like to reiterate this idea that a CI (gray region) tries to quantify averaged behaviour of a model (blue line), and notice how small the jiggling is. But a PI (red lines) tries to quantify the behaviour of individual data points, and thus PI is much wider, because individuals are less predictable than the average.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bonus-1-probability-and-confidence-level&#34; class=&#34;section level1&#34;&gt;
@@ -443,7 +443,7 @@ sim_coef_tbl&lt;/code&gt;&lt;/pre&gt;
        blue: single estimated linear regression line
        orange: 100 simulated linear regression lines,
        gray: 95% CI&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2021-05-30-confidence-and-prediction-intervals/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;confidence-intervals&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Confidence intervals&lt;/h2&gt;
@@ -532,11 +532,11 @@ Notice that both formulas share the same point estimate of &lt;span class=&#34;m
     
     <item>
       <title>Visualising COVID-19 data using Data Studio</title>
-      <link>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
+      <link>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
+      <guid>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -579,7 +579,7 @@ LIMIT 10&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;A bit more data manipulations&lt;/h1&gt;
 &lt;p&gt;In order to make the heatmap at the beginning of this post, a bit more data manipulations are needed. In particular, joining the two data together using “country” as a common key. Once this is done, we can take the ratio of the confirmed cases and the population and calculate the “confirmed cases per 1 million” statistic and making a heatmap visualisation is straightforward after that.&lt;/p&gt;
 &lt;p&gt;Joining data in DS is called “blending data”, which you can &lt;a href=&#34;https://support.google.com/datastudio/answer/9061420?hl=en&#34;&gt;find out more here&lt;/a&gt;. This is identical to the operation of the various JOIN operations in SQL if you choose your settings correctly.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Aside: of course, joining data isn’t the magic silver bullet for everything. If you examine closely on page 2 of the report, you will see that some countries have &lt;code&gt;null&lt;/code&gt; values in the &lt;code&gt;confirmed cases&lt;/code&gt; column, e.g. South Korea. This is because the name of the country was not consistent between the two counties. E.g. “South Korea” in one data and “Korea, South” in another. This has to be fixed by making a new column with matched names. The way that I did it was to create a &lt;code&gt;country_correct&lt;/code&gt; column in the population data using the definitions such as&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;CASE 
     WHEN country IN (&amp;quot;United States&amp;quot;) THEN &amp;quot;US&amp;quot; 
@@ -611,11 +611,11 @@ END&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>BigQuery in R</title>
-      <link>http://www.kevinwangstats.com/post/bigquery-in-r/</link>
+      <link>https://www.kevinwangstats.com/post/bigquery-in-r/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/bigquery-in-r/</guid>
+      <guid>https://www.kevinwangstats.com/post/bigquery-in-r/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;motivation&#34; class=&#34;section level1&#34;&gt;
@@ -861,11 +861,11 @@ pre code {
     
     <item>
       <title>COVID-19 visualisations</title>
-      <link>http://www.kevinwangstats.com/post/covid-19-visualisations/</link>
+      <link>https://www.kevinwangstats.com/post/covid-19-visualisations/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/covid-19-visualisations/</guid>
+      <guid>https://www.kevinwangstats.com/post/covid-19-visualisations/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/covid-19-visualisations/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/covid-19-visualisations/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -880,7 +880,7 @@ I want to quite clear about my intentions behind this blog post: I am &lt;strong
 &lt;/div&gt;
 &lt;div id=&#34;shiny-app-for-confirmed-cases-and-added-cases&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Shiny app for confirmed cases and added cases&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/img/covid19_shiny.png&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/img/covid19_shiny.png&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This app attemps to answer the first question, code: &lt;a href=&#34;https://github.com/kevinwang09/covid19&#34; class=&#34;uri&#34;&gt;https://github.com/kevinwang09/covid19&lt;/a&gt;. I can’t afford a server at this point, so you will need to run this app locally by reading through the instructions in the README of that repo.&lt;/p&gt;
 &lt;p&gt;Based on my simple visualisations at the time (~15 March 2020), I estimated that US’s major outbreak lags behind that of China by about 45 days or so. So it wasn’t so dangerous for me when I was in Cornell around mid-March, however, it was definitely not ideal as the county I was in already had two confirmed cases. Any delays in my departure could spell trouble. This is unfortunately true since at the time of writing, US has overtaken China in confirmed cases and New York state shares the biggest percentage of those confirmed cases.&lt;/p&gt;
 &lt;p&gt;The structure of the app is quite simple:&lt;/p&gt;
@@ -892,7 +892,7 @@ I want to quite clear about my intentions behind this blog post: I am &lt;strong
 &lt;/div&gt;
 &lt;div id=&#34;interactive-animation-of-flights-with-confirmed-case&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Interactive animation of flights with confirmed case&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/img/covid19_flights.gif&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/img/covid19_flights.gif&#34; align=&#34;center&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This is a standalone RMarkdown document: &lt;a href=&#34;https://kevinwang09.github.io/covid19/confirmed_flights.html#5_plotly_visualisations&#34; class=&#34;uri&#34;&gt;https://kevinwang09.github.io/covid19/confirmed_flights.html#5_plotly_visualisations&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The New South Wales Health website publishes a &lt;a href=&#34;https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus-flights.aspx&#34;&gt;list of flights with confirmed cases of COVID-19&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The coding beind this visualisation is also quite straight-forward:&lt;/p&gt;

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GCP | Kevin Wang</title>
-    <link>http://www.kevinwangstats.com/tag/gcp/</link>
-      <atom:link href="http://www.kevinwangstats.com/tag/gcp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kevinwangstats.com/tag/gcp/</link>
+      <atom:link href="https://www.kevinwangstats.com/tag/gcp/index.xml" rel="self" type="application/rss+xml" />
     <description>GCP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.kevinwangstats.com/media/icon_hucd79782a54a1b8440324534e0bd47fb4_18398_512x512_fill_lanczos_center_3.png</url>
       <title>GCP</title>
-      <link>http://www.kevinwangstats.com/tag/gcp/</link>
+      <link>https://www.kevinwangstats.com/tag/gcp/</link>
     </image>
     
     <item>
       <title>Visualising COVID-19 data using Data Studio</title>
-      <link>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
+      <link>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
+      <guid>https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/post/visualising-covid19-using-data-studio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
@@ -61,7 +61,7 @@ LIMIT 10&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;A bit more data manipulations&lt;/h1&gt;
 &lt;p&gt;In order to make the heatmap at the beginning of this post, a bit more data manipulations are needed. In particular, joining the two data together using “country” as a common key. Once this is done, we can take the ratio of the confirmed cases and the population and calculate the “confirmed cases per 1 million” statistic and making a heatmap visualisation is straightforward after that.&lt;/p&gt;
 &lt;p&gt;Joining data in DS is called “blending data”, which you can &lt;a href=&#34;https://support.google.com/datastudio/answer/9061420?hl=en&#34;&gt;find out more here&lt;/a&gt;. This is identical to the operation of the various JOIN operations in SQL if you choose your settings correctly.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kevinwangstats.com/post/2020-04-11-visualising-covid19-using-data-studio_files/ds_data_blend.png&#34; align=&#34;center&#34; width=&#34;800&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Aside: of course, joining data isn’t the magic silver bullet for everything. If you examine closely on page 2 of the report, you will see that some countries have &lt;code&gt;null&lt;/code&gt; values in the &lt;code&gt;confirmed cases&lt;/code&gt; column, e.g. South Korea. This is because the name of the country was not consistent between the two counties. E.g. “South Korea” in one data and “Korea, South” in another. This has to be fixed by making a new column with matched names. The way that I did it was to create a &lt;code&gt;country_correct&lt;/code&gt; column in the population data using the definitions such as&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;CASE 
     WHEN country IN (&amp;quot;United States&amp;quot;) THEN &amp;quot;US&amp;quot; 
@@ -93,11 +93,11 @@ END&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>BigQuery in R</title>
-      <link>http://www.kevinwangstats.com/post/bigquery-in-r/</link>
+      <link>https://www.kevinwangstats.com/post/bigquery-in-r/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.kevinwangstats.com/post/bigquery-in-r/</guid>
+      <guid>https://www.kevinwangstats.com/post/bigquery-in-r/</guid>
       <description>
-&lt;script src=&#34;http://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.kevinwangstats.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;motivation&#34; class=&#34;section level1&#34;&gt;
